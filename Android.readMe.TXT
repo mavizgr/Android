@@ -1,1 +1,1 @@
-Das ist eine neue Projekt für Android.
+Dieses TicTacToe Spiel wurde von dem Buch "Jetzt lerne Ich Android" abgeschrieben.
