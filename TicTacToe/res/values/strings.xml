@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TicTacToe</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="Spieler">Spieler beginnt</string>
+    <string name="Android">Android beginnt</string>
+    <string name="Ende">Beenden</string>
+    
+    
+  
+    <string name="androidZuerst">Android beginnt</string>
+    <string name="spielerZuerst">Spieler beginnt</string>
+    <string name="spielerGewinner">Spieler gewinnt</string>
+    <string name="androidGewinner">Android gewinnt</string>
+    <string name="unentschieden">Unentschieden!</string>
+    <string name="ergebnisTitel">Spielergebnis</string>
+    <string name="okButtonLabel">OK</string>
+    <string name="ende">Beenden</string>
+
+</resources>
